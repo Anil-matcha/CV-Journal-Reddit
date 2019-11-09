@@ -7,7 +7,8 @@
 3. Identity validation and biometrics
 4. Traditional Computer Vision
 
-
+# Telegram group for discussion
+https://t.me/joinchat/K54wDlG88Tw6tTx5xJ5Ddg
 
 # Paper suggestions
 
